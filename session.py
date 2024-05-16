@@ -94,7 +94,7 @@ class Session:
     # Actions of the session
     def login(self, email, password):
         print("Logging in with email...")
-        print('Manual interference is required.')
+        print('Manual interference is required. Please login.')
         input('press ENTER to continue')
 
     def alert(self):
